@@ -16,6 +16,6 @@ Functionality & concepts used:
 •	Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for users to convert usnits without providing detailed instructions. App also uses App Navigation to switch between different screens.
 
 Application link & Future Scope:
-•	You can access the app 
+•	https://github.com/shreyashkadam/Unit-Converter
 •	We aim to add certain more unit conversions like temperature , currency ( with day to day changes) , etc.
 
